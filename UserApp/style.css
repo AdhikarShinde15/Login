@@ -14,9 +14,9 @@ body {
 }
 
 .bg-img{
-       background-image: url('/img/login-bg.png');
+       background-image: url('/UserApp/img/login-bg.png');
        background-size: cover; 
-       
+       height: inherit;
        /* width: 100%; */
 }
 
